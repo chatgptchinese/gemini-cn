@@ -6,6 +6,10 @@ Google Gemini 是 Google DeepMind 开发的多模态模型与产品系列，可�
 
 本文重点回答三个问题：哪些是 Google 官方入口，国内用户如何判断某个入口是否可用，开发者应如何选择 API 路径。模型名称、价格、地区开放范围和免费额度会持续调整，涉及具体限制时请以 Google 官方页面显示为准。
 
+**如果你只是想直接体验模型的能力，也可以使用Gemini镜像站**
+- **Gemini 中文版**：[https://lazymanchat.com](https://lazymanchat.com) - 支持 Gemini 4 Argon、GPT-6.1、Claude 5.5
+- **Gemini 镜像站**：[https://ai.luckaichat.com](https://ai.luckaichat.com) - 支持 Gemini 4 Argon  
+
 ## 一、Gemini 是什么？先区分产品和模型
 
 “Gemini”既指模型家族，也指 Google 的聊天产品。把两者分开，才能正确理解网上常见的“Gemini 中文版”“Gemini Pro”和“Gemini Advanced”等说法。
